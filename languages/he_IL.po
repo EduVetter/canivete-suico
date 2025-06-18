@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canivete Suíço 1.0.0\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Canivete Suíço"
+msgstr "סכין שווייצרית"
+
+msgid "Alternar modo escuro"
+msgstr "החלף מצב כהה"
+
+msgid "Salvar Alterações"
+msgstr "שמור שינויים"
+
+msgid "Módulos Gerais"
+msgstr "מודולים כלליים"
+
+msgid "Ajustes do Painel de Admin"
+msgstr "הגדרות לוח ניהול"
+
+msgid "Ajustes de Conteúdo"
+msgstr "הגדרות תוכן"
+
+msgid "Personalização (White Label)"
+msgstr "התאמה אישית (מותג לבן)"
+
+msgid "Proteção de Conteúdo"
+msgstr "הגנת תוכן"
+
+msgid "Segurança e Otimização"
+msgstr "אבטחה ואופטימיזציה"
+
+msgid "Suporte a SVG"
+msgstr "תמיכה ב-SVG"
+
+msgid "Permite o upload seguro de ficheiros SVG na Biblioteca de Mídia."
+msgstr "מאפשר העלאת קבצי SVG מאובטחת לספריית המדיה."
+
+msgid "Modo Manutenção"
+msgstr "מצב תחזוקה"
+
+msgid "Ativar modo manutenção."
+msgstr "הפעל מצב תחזוקה."
+
+msgid "Editor Clássico"
+msgstr "עורך קלאסי"
+
+msgid "Desativa o editor de blocos (Gutenberg) e restaura o editor clássico."
+msgstr "מבטל את עורך הבלוקים (Gutenberg) ומשחזר את העורך הקלאסי."
+
+msgid "Widgets Clássicos"
+msgstr "ווידג'טים קלאסיים"
+
+msgid "Desativa a interface de blocos e restaura a gestão clássica de widgets."
+msgstr "מבטל את ממשק הבלוקים ומשחזר את ניהול הווידג'טים הקלאסי."
+
+msgid "Desativar E-mails de Atualização"
+msgstr "השבת התראות עדכון בדוא"ל"
+
+msgid "Impede o envio de e-mails de notificação após atualizações automáticas."
+msgstr "מונע שליחת התראות בדוא"ל לאחר עדכונים אוטומטיים."
+
+msgid "Duplicar Posts/Páginas"
+msgstr "שכפל פוסטים/דפים"
+
+msgid "Adiciona um link \"Duplicar\" na lista de posts e páginas."
+msgstr "מוסיף קישור 'שכפל' לרשימת הפוסטים והדפים."
+
+msgid "Exibir Data de Atualização"
+msgstr "הצג תאריך עדכון"
+
+msgid "Mostra a data da última modificação no início dos posts."
+msgstr "מציג את תאריך השינוי האחרון בתחילת הפוסטים."
+
+msgid "Logotipo na Tela de Login"
+msgstr "לוגו במסך הכניסה"
+
+msgid "Usa o \"Logotipo do Site\" definido no Personalizador."
+msgstr "משתמש ב'לוגו האתר' שהוגדר בהתאמה אישית."
+
+msgid "Ícone na Barra de Admin"
+msgstr "סמל בסרגל הניהול"
+
+msgid "Usa o \"Ícone do Site\" (Favicon) definido no Personalizador como logo na barra de admin."
+msgstr "משתמש ב'סמל האתר' (Favicon) שהוגדר בהתאמה אישית כלוגו בסרגל הניהול."
+
+msgid "Texto do Rodapé do Painel"
+msgstr "טקסט תחתון של לוח הניהול"
+
+msgid "Personalize o texto \"Obrigado por criar com o WordPress\". Pode usar HTML."
+msgstr "התאם אישית את הטקסט 'תודה שיצרת עם וורדפרס'. ניתן להשתמש ב-HTML."
+
+msgid "Desativar Seletor de Idioma"
+msgstr "השבת בורר שפה"
+
+msgid "Oculta o seletor de idioma na tela de login."
+msgstr "מסתיר את בורר השפה במסך הכניסה."
+
+msgid "Desativar Clique Direito"
+msgstr "השבת קליק ימני"
+
+msgid "Impede o uso do menu de contexto do botão direito."
+msgstr "מונע שימוש בתפריט ההקשר של לחצן העכבר הימני."
+
+msgid "Mensagem de alerta (opcional)"
+msgstr "הודעת התראה (אופציונלי)"
+
+msgid "Desativar Seleção de Texto"
+msgstr "השבת בחירת טקסט"
+
+msgid "Impede que o conteúdo do site seja selecionado e copiado."
+msgstr "מונע בחירה והעתקה של תוכן האתר."
+
+msgid "Ocultar WordPress"
+msgstr "הסתר את וורדפרס"
+
+msgid "Remove \"pistas\" comuns de que o site usa WordPress."
+msgstr "מסיר 'עקבות' נפוצות שמראות שהאתר משתמש בוורדפרס."
+
+msgid "Desativar Feeds RSS"
+msgstr "השבת הזנות RSS"
+
+msgid "Impede o acesso aos feeds de conteúdo do site (ex: /feed)."
+msgstr "מונע גישה להזנות התוכן של האתר (למשל: /feed)."
+
+msgid "Desativar REST API"
+msgstr "השבת REST API"
+
+msgid "Bloqueia o acesso público à API de dados do WordPress."
+msgstr "חוסם גישה ציבורית ל-API של נתוני וורדפרס."
+
+msgid "Desativar Comentários"
+msgstr "השבת תגובות"
+
+msgid "Desativa globalmente os comentários, remove o menu e os formulários."
+msgstr "משבית תגובות באופן גלובלי, מסיר את התפריט והטפסים."
+
+msgid "Limitar Meta Descrição"
+msgstr "הגבל תיאור מטא"
+
+msgid "Limita a meta descrição (resumo) a 160 caracteres."
+msgstr "מגביל את תיאור המטא (תקציר) ל-160 תווים."
+
+msgid "Links Externos em Nova Guia"
+msgstr "קישורים חיצוניים בלשונית חדשה"
+
+msgid "Abre automaticamente todos os links externos em nova guia."
+msgstr "פותח אוטומטית את כל הקישורים החיצוניים בלשונית חדשה."
+
+msgid "Tempo de Leitura"
+msgstr "זמן קריאה"
+
+msgid "Exibe o tempo estimado de leitura antes do conteúdo."
+msgstr "מציג את זמן הקריאה המשוער לפני התוכן."
+
+msgid "Limitar Títulos"
+msgstr "הגבל כותרות"
+
+msgid "Limita títulos a 60 caracteres."
+msgstr "מגביל כותרות ל-60 תווים."
+
+msgid "Coluna Último Login"
+msgstr "עמודת התחברות אחרונה"
+
+msgid "Adiciona uma coluna com o último login dos usuários."
+msgstr "מוסיף עמודה עם ההתחברות האחרונה של המשתמשים."
+
+msgid "Reordenar Menu Admin"
+msgstr "סדר מחדש את תפריט הניהול"
+
+msgid "Permite reordenar os itens do menu de administração."
+msgstr "מאפשר לסדר מחדש את פריטי תפריט הניהול."
+
+msgid "Logotipo Personalizado por Página"
+msgstr "לוגו מותאם אישית לכל עמוד"
+
+msgid "Permite definir um logotipo diferente para cada página/post."
+msgstr "מאפשר להגדיר לוגו שונה לכל עמוד/פוסט."
+
+msgid "Alterar link wp-admin"
+msgstr "שנה קישור wp-admin"
+
+msgid "Defina uma nova URL para acessar o painel administrativo (ex: \"meupainel\")."
+msgstr "הגדר כתובת URL חדשה לגישה ללוח הניהול (לדוג' 'המנהלשלי')."
+
+msgid "Contador de Visitas"
+msgstr "מונה ביקורים"
+
+msgid "Ativa o contador de visitas para exibição no site."
+msgstr "מפעיל את מונה הביקורים להצגה באתר."
+
+msgid "Valor do Contador de Visitas"
+msgstr "ערך מונה הביקורים"
+
+msgid "Edite manualmente o número de visitas exibido no site."
+msgstr "ערוך ידנית את מספר הביקורים המוצג באתר."
+
+msgid "Como exibir o contador"
+msgstr "כיצד להציג את המונה"
+
+msgid "Dica: Para exibir o contador de visitas no seu site, utilize o <b>widget do Elementor</b> chamado <b>Contador de Visitas</b> <u>ou</u> insira o shortcode <code>[cs_visit_counter]</code> onde desejar."
+msgstr "טיפ: כדי להציג את מונה הביקורים באתר שלך, השתמש ב-<b>ווידג'ט של אלמנטור</b> בשם <b>מונה ביקורים</b> <u>או</u> הוסף את השורטקוד <code>[cs_visit_counter]</code> בכל מקום שתרצה."

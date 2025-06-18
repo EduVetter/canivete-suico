@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canivete Suíço 1.0.0\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Canivete Suíço"
+msgstr "Schweizer Taschenmesser"
+
+msgid "Alternar modo escuro"
+msgstr "Dunkelmodus umschalten"
+
+msgid "Salvar Alterações"
+msgstr "Änderungen speichern"
+
+msgid "Módulos Gerais"
+msgstr "Allgemeine Module"
+
+msgid "Ajustes do Painel de Admin"
+msgstr "Admin-Panel-Einstellungen"
+
+msgid "Ajustes de Conteúdo"
+msgstr "Inhaltseinstellungen"
+
+msgid "Personalização (White Label)"
+msgstr "White-Label-Anpassung"
+
+msgid "Proteção de Conteúdo"
+msgstr "Inhaltsschutz"
+
+msgid "Segurança e Otimização"
+msgstr "Sicherheit und Optimierung"
+
+msgid "Suporte a SVG"
+msgstr "SVG-Unterstützung"
+
+msgid "Permite o upload seguro de ficheiros SVG na Biblioteca de Mídia."
+msgstr "Ermöglicht das sichere Hochladen von SVG-Dateien in die Mediathek."
+
+msgid "Modo Manutenção"
+msgstr "Wartungsmodus"
+
+msgid "Ativar modo manutenção."
+msgstr "Wartungsmodus aktivieren."
+
+msgid "Editor Clássico"
+msgstr "Klassischer Editor"
+
+msgid "Desativa o editor de blocos (Gutenberg) e restaura o editor clássico."
+msgstr "Deaktiviert den Blockeditor (Gutenberg) und stellt den klassischen Editor wieder her."
+
+msgid "Widgets Clássicos"
+msgstr "Klassische Widgets"
+
+msgid "Desativa a interface de blocos e restaura a gestão clássica de widgets."
+msgstr "Deaktiviert die Blockoberfläche und stellt die klassische Widget-Verwaltung wieder her."
+
+msgid "Desativar E-mails de Atualização"
+msgstr "Update-E-Mails deaktivieren"
+
+msgid "Impede o envio de e-mails de notificação após atualizações automáticas."
+msgstr "Verhindert Benachrichtigungs-E-Mails nach automatischen Updates."
+
+msgid "Duplicar Posts/Páginas"
+msgstr "Beiträge/Seiten duplizieren"
+
+msgid "Adiciona um link \"Duplicar\" na lista de posts e páginas."
+msgstr "Fügt einen 'Duplizieren'-Link zur Beitrags- und Seitenliste hinzu."
+
+msgid "Exibir Data de Atualização"
+msgstr "Aktualisierungsdatum anzeigen"
+
+msgid "Mostra a data da última modificação no início dos posts."
+msgstr "Zeigt das letzte Änderungsdatum am Anfang der Beiträge an."
+
+msgid "Logotipo na Tela de Login"
+msgstr "Logo auf dem Anmeldebildschirm"
+
+msgid "Usa o \"Logotipo do Site\" definido no Personalizador."
+msgstr "Verwendet das im Customizer festgelegte 'Website-Logo'."
+
+msgid "Ícone na Barra de Admin"
+msgstr "Symbol in der Admin-Leiste"
+
+msgid "Usa o \"Ícone do Site\" (Favicon) definido no Personalizador como logo na barra de admin."
+msgstr "Verwendet das im Customizer festgelegte 'Website-Symbol' (Favicon) als Admin-Leisten-Logo."
+
+msgid "Texto do Rodapé do Painel"
+msgstr "Admin-Fußzeilentext"
+
+msgid "Personalize o texto \"Obrigado por criar com o WordPress\". Pode usar HTML."
+msgstr "Passen Sie den Text 'Danke, dass Sie mit WordPress erstellt haben' an. HTML erlaubt."
+
+msgid "Desativar Seletor de Idioma"
+msgstr "Sprachauswahl deaktivieren"
+
+msgid "Oculta o seletor de idioma na tela de login."
+msgstr "Blendet die Sprachauswahl auf dem Anmeldebildschirm aus."
+
+msgid "Desativar Clique Direito"
+msgstr "Rechtsklick deaktivieren"
+
+msgid "Impede o uso do menu de contexto do botão direito."
+msgstr "Verhindert die Verwendung des Rechtsklick-Kontextmenüs."
+
+msgid "Mensagem de alerta (opcional)"
+msgstr "Warnmeldung (optional)"
+
+msgid "Desativar Seleção de Texto"
+msgstr "Textauswahl deaktivieren"
+
+msgid "Impede que o conteúdo do site seja selecionado e copiado."
+msgstr "Verhindert, dass Website-Inhalte ausgewählt und kopiert werden."
+
+msgid "Ocultar WordPress"
+msgstr "WordPress verbergen"
+
+msgid "Remove \"pistas\" comuns de que o site usa WordPress."
+msgstr "Entfernt gängige 'Spuren', die zeigen, dass die Website WordPress verwendet."
+
+msgid "Desativar Feeds RSS"
+msgstr "RSS-Feeds deaktivieren"
+
+msgid "Impede o acesso aos feeds de conteúdo do site (ex: /feed)."
+msgstr "Verhindert den Zugriff auf Inhalts-Feeds der Website (z. B. /feed)."
+
+msgid "Desativar REST API"
+msgstr "REST-API deaktivieren"
+
+msgid "Bloqueia o acesso público à API de dados do WordPress."
+msgstr "Blockiert den öffentlichen Zugriff auf die WordPress-Daten-API."
+
+msgid "Desativar Comentários"
+msgstr "Kommentare deaktivieren"
+
+msgid "Desativa globalmente os comentários, remove o menu e os formulários."
+msgstr "Deaktiviert Kommentare global, entfernt das Menü und die Formulare."
+
+msgid "Limitar Meta Descrição"
+msgstr "Meta-Beschreibung begrenzen"
+
+msgid "Limita a meta descrição (resumo) a 160 caracteres."
+msgstr "Begrenzt die Meta-Beschreibung (Zusammenfassung) auf 160 Zeichen."
+
+msgid "Links Externos em Nova Guia"
+msgstr "Externe Links in neuem Tab"
+
+msgid "Abre automaticamente todos os links externos em nova guia."
+msgstr "Öffnet automatisch alle externen Links in einem neuen Tab."
+
+msgid "Tempo de Leitura"
+msgstr "Lesezeit"
+
+msgid "Exibe o tempo estimado de leitura antes do conteúdo."
+msgstr "Zeigt die geschätzte Lesezeit vor dem Inhalt an."
+
+msgid "Limitar Títulos"
+msgstr "Titel begrenzen"
+
+msgid "Limita títulos a 60 caracteres."
+msgstr "Begrenzt Titel auf 60 Zeichen."
+
+msgid "Coluna Último Login"
+msgstr "Letzte Login-Spalte"
+
+msgid "Adiciona uma coluna com o último login dos usuários."
+msgstr "Fügt eine Spalte mit dem letzten Login der Benutzer hinzu."
+
+msgid "Reordenar Menu Admin"
+msgstr "Admin-Menü neu anordnen"
+
+msgid "Permite reordenar os itens do menu de administração."
+msgstr "Ermöglicht das Neuanordnen der Admin-Menüelemente."
+
+msgid "Logotipo Personalizado por Página"
+msgstr "Benutzerdefiniertes Logo pro Seite"
+
+msgid "Permite definir um logotipo diferente para cada página/post."
+msgstr "Ermöglicht das Festlegen eines anderen Logos für jede Seite/Beitrag."
+
+msgid "Alterar link wp-admin"
+msgstr "wp-admin-Link ändern"
+
+msgid "Defina uma nova URL para acessar o painel administrativo (ex: \"meupainel\")."
+msgstr "Legen Sie eine neue URL für den Zugriff auf das Admin-Panel fest (z. B. 'meinadmin')."
+
+msgid "Contador de Visitas"
+msgstr "Besucherzähler"
+
+msgid "Ativa o contador de visitas para exibição no site."
+msgstr "Aktiviert den Besucherzähler zur Anzeige auf der Website."
+
+msgid "Valor do Contador de Visitas"
+msgstr "Wert des Besucherzählers"
+
+msgid "Edite manualmente o número de visitas exibido no site."
+msgstr "Bearbeiten Sie die auf der Website angezeigte Besucherzahl manuell."
+
+msgid "Como exibir o contador"
+msgstr "Wie man den Zähler anzeigt"
+
+msgid "Dica: Para exibir o contador de visitas no seu site, utilize o <b>widget do Elementor</b> chamado <b>Contador de Visitas</b> <u>ou</u> insira o shortcode <code>[cs_visit_counter]</code> onde desejar."
+msgstr "Tipp: Um den Besucherzähler auf Ihrer Website anzuzeigen, verwenden Sie das <b>Elementor-Widget</b> namens <b>Besucherzähler</b> <u>oder</u> fügen Sie den Shortcode <code>[cs_visit_counter]</code> ein, wo immer Sie möchten."

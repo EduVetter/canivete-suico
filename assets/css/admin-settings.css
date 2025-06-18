@@ -1,0 +1,155 @@
+/* Canivete Suíço - Estilo da página de configurações */
+:root {
+  --cs-bg: #fff;
+  --cs-card: #fff;
+  --cs-text: #222;
+  --cs-primary: #0073aa;
+  --cs-border: #e5e7eb;
+  --cs-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --cs-bg: #181c20;
+    --cs-card: #23272b;
+    --cs-text: #f3f3f3;
+    --cs-primary: #4fc3f7;
+    --cs-border: #333a40;
+    --cs-shadow: 0 2px 12px rgba(0,0,0,0.3);
+  }
+}
+body.cs-dark-mode {
+  --cs-bg: #181c20;
+  --cs-card: #23272b;
+  --cs-text: #f3f3f3;
+  --cs-primary: #4fc3f7;
+  --cs-border: #333a40;
+  --cs-shadow: 0 2px 12px rgba(0,0,0,0.3);
+}
+.cs-admin-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 32px;
+  position: sticky;
+  top: 0;
+  background: var(--cs-bg);
+  z-index: 10;
+  padding: 16px 0 8px 0;
+  border-bottom: 1px solid var(--cs-border);
+}
+.cs-admin-header img {
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  box-shadow: var(--cs-shadow);
+}
+.cs-admin-header h1 {
+  font-size: 2rem;
+  margin: 0;
+  color: var(--cs-text);
+  letter-spacing: 1px;
+}
+.cs-dark-toggle {
+  margin-left: auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: var(--cs-primary);
+  transition: color 0.2s;
+}
+.cs-admin-main {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+.cs-admin-col {
+  flex: 1 1 0;
+  min-width: 320px;
+  max-width: 600px;
+}
+.cs-admin-card {
+  background: var(--cs-card);
+  border-radius: 10px;
+  box-shadow: var(--cs-shadow);
+  padding: 32px 24px 24px 24px;
+  margin-bottom: 32px;
+  border: 1px solid var(--cs-border);
+  color: var(--cs-text);
+}
+.cs-admin-card h2 {
+  font-size: 1.2rem;
+  margin-top: 0;
+  color: var(--cs-primary);
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.cs-admin-card label, .cs-admin-card .description {
+  color: var(--cs-text);
+}
+.cs-admin-card input[type="text"],
+.cs-admin-card textarea,
+.cs-admin-card select {
+  border-radius: 6px;
+  border: 1px solid var(--cs-border);
+  padding: 8px 12px;
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 1rem;
+  background: #f9fafb;
+  color: #222;
+}
+body.cs-dark-mode .cs-admin-card input[type="text"],
+body.cs-dark-mode .cs-admin-card textarea,
+body.cs-dark-mode .cs-admin-card select {
+  background: #23272b;
+  color: #f3f3f3;
+  border-color: #444;
+}
+.cs-admin-card input[type="checkbox"] {
+  margin-right: 8px;
+}
+.cs-admin-card .button-primary {
+  background: var(--cs-primary);
+  border: none;
+  color: #fff;
+  border-radius: 6px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  box-shadow: var(--cs-shadow);
+  transition: background 0.2s;
+}
+.cs-admin-card .button-primary:hover {
+  background: #005177;
+}
+.cs-admin-card .form-table th {
+  width: 220px;
+  color: var(--cs-text);
+  font-weight: 500;
+}
+.cs-admin-card .form-table td {
+  padding-bottom: 12px;
+}
+.cs-admin-card .form-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+}
+.cs-section-divider {
+  border: none;
+  border-top: 1px solid var(--cs-border);
+  margin: 32px 0 24px 0;
+}
+.cs-section-icon {
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  margin-right: 6px;
+  opacity: 0.8;
+}
+@media (max-width: 900px) {
+  .cs-admin-main { flex-direction: column; gap: 0; }
+  .cs-admin-col { max-width: 100%; }
+}

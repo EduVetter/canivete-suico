@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canivete Suíço 1.0.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Canivete Suíço"
+msgstr "Canivete Suíço"
+
+msgid "Alternar modo escuro"
+msgstr "Alternar modo escuro"
+
+msgid "Salvar Alterações"
+msgstr "Salvar Alterações"
+
+msgid "Módulos Gerais"
+msgstr "Módulos Gerais"
+
+msgid "Ajustes do Painel de Admin"
+msgstr "Ajustes do Painel de Admin"
+
+msgid "Ajustes de Conteúdo"
+msgstr "Ajustes de Conteúdo"
+
+msgid "Personalização (White Label)"
+msgstr "Personalização (White Label)"
+
+msgid "Proteção de Conteúdo"
+msgstr "Proteção de Conteúdo"
+
+msgid "Segurança e Otimização"
+msgstr "Segurança e Otimização"
+
+msgid "Suporte a SVG"
+msgstr "Suporte a SVG"
+
+msgid "Permite o upload seguro de ficheiros SVG na Biblioteca de Mídia."
+msgstr "Permite o upload seguro de ficheiros SVG na Biblioteca de Mídia."
+
+msgid "Modo Manutenção"
+msgstr "Modo Manutenção"
+
+msgid "Ativar modo manutenção."
+msgstr "Ativar modo manutenção."
+
+msgid "Editor Clássico"
+msgstr "Editor Clássico"
+
+msgid "Desativa o editor de blocos (Gutenberg) e restaura o editor clássico."
+msgstr "Desativa o editor de blocos (Gutenberg) e restaura o editor clássico."
+
+msgid "Widgets Clássicos"
+msgstr "Widgets Clássicos"
+
+msgid "Desativa a interface de blocos e restaura a gestão clássica de widgets."
+msgstr "Desativa a interface de blocos e restaura a gestão clássica de widgets."
+
+msgid "Desativar E-mails de Atualização"
+msgstr "Desativar E-mails de Atualização"
+
+msgid "Impede o envio de e-mails de notificação após atualizações automáticas."
+msgstr "Impede o envio de e-mails de notificação após atualizações automáticas."
+
+msgid "Duplicar Posts/Páginas"
+msgstr "Duplicar Posts/Páginas"
+
+msgid "Adiciona um link \"Duplicar\" na lista de posts e páginas."
+msgstr "Adiciona um link \"Duplicar\" na lista de posts e páginas."
+
+msgid "Exibir Data de Atualização"
+msgstr "Exibir Data de Atualização"
+
+msgid "Mostra a data da última modificação no início dos posts."
+msgstr "Mostra a data da última modificação no início dos posts."
+
+msgid "Logotipo na Tela de Login"
+msgstr "Logotipo na Tela de Login"
+
+msgid "Usa o \"Logotipo do Site\" definido no Personalizador."
+msgstr "Usa o \"Logotipo do Site\" definido no Personalizador."
+
+msgid "Ícone na Barra de Admin"
+msgstr "Ícone na Barra de Admin"
+
+msgid "Usa o \"Ícone do Site\" (Favicon) definido no Personalizador como logo na barra de admin."
+msgstr "Usa o \"Ícone do Site\" (Favicon) definido no Personalizador como logo na barra de admin."
+
+msgid "Texto do Rodapé do Painel"
+msgstr "Texto do Rodapé do Painel"
+
+msgid "Personalize o texto \"Obrigado por criar com o WordPress\". Pode usar HTML."
+msgstr "Personalize o texto \"Obrigado por criar com o WordPress\". Pode usar HTML."
+
+msgid "Desativar Seletor de Idioma"
+msgstr "Desativar Seletor de Idioma"
+
+msgid "Oculta o seletor de idioma na tela de login."
+msgstr "Oculta o seletor de idioma na tela de login."
+
+msgid "Desativar Clique Direito"
+msgstr "Desativar Clique Direito"
+
+msgid "Impede o uso do menu de contexto do botão direito."
+msgstr "Impede o uso do menu de contexto do botão direito."
+
+msgid "Mensagem de alerta (opcional)"
+msgstr "Mensagem de alerta (opcional)"
+
+msgid "Desativar Seleção de Texto"
+msgstr "Desativar Seleção de Texto"
+
+msgid "Impede que o conteúdo do site seja selecionado e copiado."
+msgstr "Impede que o conteúdo do site seja selecionado e copiado."
+
+msgid "Ocultar WordPress"
+msgstr "Ocultar WordPress"
+
+msgid "Remove \"pistas\" comuns de que o site usa WordPress."
+msgstr "Remove \"pistas\" comuns de que o site usa WordPress."
+
+msgid "Desativar Feeds RSS"
+msgstr "Desativar Feeds RSS"
+
+msgid "Impede o acesso aos feeds de conteúdo do site (ex: /feed)."
+msgstr "Impede o acesso aos feeds de conteúdo do site (ex: /feed)."
+
+msgid "Desativar REST API"
+msgstr "Desativar REST API"
+
+msgid "Bloqueia o acesso público à API de dados do WordPress."
+msgstr "Bloqueia o acesso público à API de dados do WordPress."
+
+msgid "Desativar Comentários"
+msgstr "Desativar Comentários"
+
+msgid "Desativa globalmente os comentários, remove o menu e os formulários."
+msgstr "Desativa globalmente os comentários, remove o menu e os formulários."
+
+msgid "Limitar Meta Descrição"
+msgstr "Limitar Meta Descrição"
+
+msgid "Limita a meta descrição (resumo) a 160 caracteres."
+msgstr "Limita a meta descrição (resumo) a 160 caracteres."
+
+msgid "Links Externos em Nova Guia"
+msgstr "Links Externos em Nova Guia"
+
+msgid "Abre automaticamente todos os links externos em nova guia."
+msgstr "Abre automaticamente todos os links externos em nova guia."
+
+msgid "Tempo de Leitura"
+msgstr "Tempo de Leitura"
+
+msgid "Exibe o tempo estimado de leitura antes do conteúdo."
+msgstr "Exibe o tempo estimado de leitura antes do conteúdo."
+
+msgid "Limitar Títulos"
+msgstr "Limitar Títulos"
+
+msgid "Limita títulos a 60 caracteres."
+msgstr "Limita títulos a 60 caracteres."
+
+msgid "Coluna Último Login"
+msgstr "Coluna Último Login"
+
+msgid "Adiciona uma coluna com o último login dos usuários."
+msgstr "Adiciona uma coluna com o último login dos usuários."
+
+msgid "Reordenar Menu Admin"
+msgstr "Reordenar Menu Admin"
+
+msgid "Permite reordenar os itens do menu de administração."
+msgstr "Permite reordenar os itens do menu de administração."
+
+msgid "Logotipo Personalizado por Página"
+msgstr "Logotipo Personalizado por Página"
+
+msgid "Permite definir um logotipo diferente para cada página/post."
+msgstr "Permite definir um logotipo diferente para cada página/post."
+
+msgid "Alterar link wp-admin"
+msgstr "Alterar link wp-admin"
+
+msgid "Defina uma nova URL para acessar o painel administrativo (ex: \"meupainel\")."
+msgstr "Defina uma nova URL para acessar o painel administrativo (ex: \"meupainel\")."
+
+msgid "Contador de Visitas"
+msgstr "Contador de Visitas"
+
+msgid "Ativa o contador de visitas para exibição no site."
+msgstr "Ativa o contador de visitas para exibição no site."
+
+msgid "Valor do Contador de Visitas"
+msgstr "Valor do Contador de Visitas"
+
+msgid "Edite manualmente o número de visitas exibido no site."
+msgstr "Edite manualmente o número de visitas exibido no site."
+
+msgid "Como exibir o contador"
+msgstr "Como exibir o contador"
+
+msgid "Dica: Para exibir o contador de visitas no seu site, utilize o <b>widget do Elementor</b> chamado <b>Contador de Visitas</b> <u>ou</u> insira o shortcode <code>[cs_visit_counter]</code> onde desejar."
+msgstr "Dica: Para exibir o contador de visitas no seu site, utilize o <b>widget do Elementor</b> chamado <b>Contador de Visitas</b> <u>ou</u> insira o shortcode <code>[cs_visit_counter]</code> onde desejar."
