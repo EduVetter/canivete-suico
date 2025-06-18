@@ -39,12 +39,10 @@
 Arquivos `.po/.mo` prontos na pasta `/languages`.
 
 ## 🖼️ Screenshots
-Inclua imagens nesta seção após subir para o GitHub:
-```
-[Painel do plugin com dark mode](assets/screenshots/painel-darkmode.png)
-[Widget Elementor do contador de visitas](assets/screenshots/widget-elementor.png)
-[Tela de login personalizada](assets/screenshots/login-custom.png)
-```
+
+![Painel do plugin com dark mode](assets/screenshots/painel-darkmode.png)
+![Widget Elementor do contador de visitas](assets/screenshots/widget-elementor.png)
+![Tela de login personalizada](assets/screenshots/login-custom.png)
 
 ## 🤝 Contribuição
 Pull requests são bem-vindos! Para reportar bugs ou sugerir melhorias, abra uma issue ou envie um PR.
